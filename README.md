@@ -5,7 +5,7 @@
 
 🎓 CSE student at AIUB | Exploring AI, Web Dev & Software Engineering | Learning one project at a time | Always curious, always coding.
 
-Skills: C++ / Java / C#
+Skills: C++ / Java / C# / SQL
 
 - 🔭 I’m currently working on Mobile or Web Application Project. 
 - 🌱 I’m currently learning Software Engineering. 
